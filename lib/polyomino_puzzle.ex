@@ -32,7 +32,7 @@ defmodule PolyominoPuzzle do
    Examples
 
       iex> figures = PolyominoPuzzle.create_figures()
-      iex> {known_figs, player_figs} = PolyominoPuzzle.get_n_random_figures(figures, 3)
+      iex> {known_figs, _player_figs} = PolyominoPuzzle.get_n_random_figures(figures, 3)
       iex> length(known_figs)
       3
   """

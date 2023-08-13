@@ -1,6 +1,11 @@
 # PolyominoPuzzle
 
-**TODO: Add description**
+## API
+
+### Examples
+
+
+
 
 ## Installation
 
